@@ -1,0 +1,8 @@
+# Brick-Breaker-Game
+To run the game, execute BrickerGameManager.java located in the Bricker\src\bricker\main folder.
+
+You can add optional arguments to specify the number of bricks in a row and the number of bricks in a column.
+
+Usage: [number of bricks in a row] [number of bricks in a column]
+
+If invalid arguments are provided, the default values will be used.
